@@ -249,7 +249,7 @@
       "competitions": [
         {
           "host": "AAArena",
-          "repo": "First-Closed-Door-Competition",
+          "repo": "First-Closed-Doors-Competition",
           "configFile": "this.competition.json",
           "plotter": {
             "host": "AAArena",
