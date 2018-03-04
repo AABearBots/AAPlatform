@@ -250,11 +250,11 @@
         {
           "host": "AAArena",
           "repo": "First-Closed-Door-Competition",
+          "configFile": "this.competition.json",
           "plotter": {
             "host": "AAArena",
             "repo": "Plotters-ROI"
-          },
-          "config": "@AAArena.First-Closed-Door-Competition.this.competition.json@"
+          }
         }
       ],
       "plotters": [
