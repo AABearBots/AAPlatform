@@ -57,25 +57,21 @@
       ]
     }
   ],
-  "competitionHosts": [
+  "hosts": [
     {
       "codeName": "AAArena",
       "displayName": "AA Arena",
       "competitions": [
         {
           "repo": "First-Closed-Doors-Competition",
-          "configFile": "this.competition.config.json",
-          "plotter": {
-            "host": "AAArena",
-            "repo": "Plotters-ROI"
-          }
+          "configFile": "this.competition.config.json"
         }
       ],
       "plotters": [
         {
           "description": "Plots participants of a competition by the ROI each one had over time.",
           "repo": "Plotters-ROI",
-          "moduleName": "ROI",
+          "moduleName": "CombinedProfits",
           "target": "Timeline"
         }
       ]
