@@ -56,6 +56,16 @@
         }
       ]
     }
+    {
+      "codeName": "AASpartans",
+      "displayName": "AA Spartans
+      "bots": [
+        {
+          "repo": "AADumbO-Trading-Bot",
+          "configFile": "this.bot.config.json"
+        }
+      ]
+    }
   ],
   "hosts": [
     {
