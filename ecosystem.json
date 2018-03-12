@@ -55,10 +55,10 @@
           "target": "Timeline"
         }
       ]
-    }
+    },
     {
       "codeName": "AASpartans",
-      "displayName": "AA Spartans
+      "displayName": "AA Spartans",
       "bots": [
         {
           "repo": "AADumbO-Trading-Bot",
