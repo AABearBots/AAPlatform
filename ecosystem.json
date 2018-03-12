@@ -66,6 +66,17 @@
         }
       ],
       "plotters": []
+    },
+    {
+      "codeName": "AABearBots",
+      "displayName": "AA BearBots",
+      "bots": [
+        {
+          "repo": "AABearMonger-Trading-Bot",
+          "configFile": "this.bot.config.json"
+        }
+      ],
+      "plotters": []
     }
   ],
   "hosts": [
